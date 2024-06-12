@@ -16,3 +16,6 @@ Welcome to the Restaurant Guide project! This is a simple web application where 
 - **Backend:** Node.js, Express.js, Axios
 - **Database:** MongoDB
 
+![Wireframe](./images/Wireframe.jpg)
+
+![ERD](./images/ERD.jpg)
